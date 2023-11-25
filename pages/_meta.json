@@ -1,15 +1,18 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "About Roll",
+  "metamask": "Add Roll to Metamask",
+  "faucet": "Receive Faucet Funds",
+  "advanced": "Deploy on Roll Chain",
   "about": {
-    "title": "About",
-    "type": "page"
+    "title": "Website ↗",
+    "type": "page",
+    "href": "https://tryroll.com/",
+    "newWindow": true
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Twitter ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://twitter.com/tryrollhq",
     "newWindow": true
   }
 }
