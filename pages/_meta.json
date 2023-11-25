@@ -1,15 +1,31 @@
 {
   "index": "About Roll",
+  "seperator_1": {
+    "type": "separator"
+  },
   "metamask": "Add Roll to Metamask",
   "faucet": "Receive Faucet Funds",
   "advanced": "Deploy on Roll Chain",
-  "about": {
+  "seperator_2": {
+    "type": "separator"
+  },
+  "explorer": {
+    "title": "Block Explorer ↗",
+    "href": "https://roll.calderaexplorer.xyz/",
+    "newWindow": true
+  },
+  "hub": {
+    "title": "Hub Page ↗",
+    "href": "https://roll.demo.caldera.dev/",
+    "newWindow": true
+  },
+  "website": {
     "title": "Website ↗",
     "type": "page",
     "href": "https://tryroll.com/",
     "newWindow": true
   },
-  "contact": {
+  "twitter": {
     "title": "Twitter ↗",
     "type": "page",
     "href": "https://twitter.com/tryrollhq",
