@@ -1,24 +1,24 @@
 {
-  "index": "About Roll",
+  "index": "About Form Testnet",
   "seperator_1": {
     "type": "separator",
     "title": "Getting Started"
   },
-  "metamask": "Add Roll to Metamask",
+  "metamask": "Add Form Testnet to Metamask",
   "faucet": "Receive Faucet Funds",
-  "advanced": "Deploy on Roll Chain",
+  "advanced": "Deploy on Form Testnet",
   "seperator_2": {
     "type": "separator",
     "title": "User Tools"
   },
   "explorer": {
     "title": "Block Explorer ↗",
-    "href": "https://roll.calderaexplorer.xyz/",
+    "href": "https://form.calderaexplorer.xyz/",
     "newWindow": true
   },
   "hub": {
     "title": "Hub Page ↗",
-    "href": "https://roll.demo.caldera.dev/",
+    "href": "https://form.demo.caldera.dev/",
     "newWindow": true
   },
   "website": {

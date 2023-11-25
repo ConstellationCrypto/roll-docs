@@ -41,10 +41,10 @@ const config: DocsThemeConfig = {
   head: (
     <>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta property="og:title" content="Roll Docs" />
+      <meta property="og:title" content="Form Testnet Docs" />
       <meta
         property="og:description"
-        content="Get started on the Roll ecosystem by adding to Metamask, receiving faucet funds, and deploying smart contracts."
+        content="Get started on Form Testnet by adding to Metamask, receiving faucet funds, and deploying smart contracts."
       />
     </>
   ),
@@ -52,7 +52,7 @@ const config: DocsThemeConfig = {
   nextThemes: { defaultTheme: "light", forcedTheme: "light" },
   useNextSeoProps() {
     return {
-      titleTemplate: "%s - Roll Docs",
+      titleTemplate: "%s - Form Testnet Docs",
     };
   },
 };
