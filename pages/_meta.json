@@ -17,9 +17,14 @@
     "href": "https://form.calderaexplorer.xyz/",
     "newWindow": true
   },
+  "Bridge": {
+    "title": "Bridge UI ↗",
+    "href": "https://form.calderabridge.xyz/",
+    "newWindow": true
+  },
   "hub": {
     "title": "Hub Page ↗",
-    "href": "https://form.demo.caldera.dev/",
+    "href": "https://form.caldera.dev/",
     "newWindow": true
   },
   "website": {
