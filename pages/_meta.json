@@ -10,7 +10,7 @@
   "advanced": "Deploy on Form Testnet",
   "seperator_2": {
     "type": "separator",
-    "title": "User Tools"
+    "title": "Tools"
   },
   "explorer": {
     "title": "Block Explorer ↗",
@@ -27,6 +27,7 @@
     "href": "https://form.caldera.dev/",
     "newWindow": true
   },
+  "thirdweb": "Thirdweb",
   "website": {
     "title": "Website ↗",
     "type": "page",
