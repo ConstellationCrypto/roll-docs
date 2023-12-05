@@ -7,7 +7,9 @@
   "metamask": "Add Form Testnet to Metamask",
   "faucet": "Receive Faucet Funds",
   "bridge": "Bridge to Form Testnet",
-  "advanced": "Deploy on Form Testnet",
+  "advanced": {
+    "title":"Deploy on Form Testnet"
+  },
   "seperator_2": {
     "type": "separator",
     "title": "Tools"
