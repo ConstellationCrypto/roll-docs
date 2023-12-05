@@ -16,17 +16,17 @@
   },
   "explorer": {
     "title": "Block Explorer ↗",
-    "href": "https://form.calderaexplorer.xyz/",
+    "href": "https://explorer.form.network/",
     "newWindow": true
   },
   "Bridge": {
     "title": "Bridge UI ↗",
-    "href": "https://form.calderabridge.xyz/",
+    "href": "https://bridge.form.network/",
     "newWindow": true
   },
   "hub": {
     "title": "Hub Page ↗",
-    "href": "https://form.caldera.dev/",
+    "href": "https://info.form.network/",
     "newWindow": true
   },
   "thirdweb": "Thirdweb",
