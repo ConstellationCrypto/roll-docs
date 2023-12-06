@@ -2,7 +2,7 @@
 ## What is Hardhat?
 
 Hardhat is a development environment for Ethereum that helps developers manage and automate the common tasks involved in building smart contracts and decentralized applications.
-It can directly interact with Caldera's Ethereum API, allowing for the deployment of smart contracts into the Caldera network.
+It can directly interact with Form's Ethereum API, allowing for the deployment of smart contracts into the Form network.
 
 Additionally, Hardhat is a comprehensive set of tools for creating Ethereum-based software, which includes various components that aid in editing, compiling, debugging, and deploying smart contracts and decentralized applications. All of these components work together to create a complete development environment.
 
@@ -56,7 +56,7 @@ Modify the Hardhat configuration file and create a secure file to store your pri
 4. Modify the `hardhat.config.js` file
     - Import the Ethers.js plugin
     - Import the `secrets.json` file
-    - Inside the `module.exports` add the Caldera network configuration 
+    - Inside the `module.exports` add the Form network configuration 
     ```javascript hardhat.config.js
     require('@nomiclabs/hardhat-ethers');
     const { privateKey } = require('./secrets.json');
