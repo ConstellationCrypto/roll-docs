@@ -23,6 +23,7 @@ const config: DocsThemeConfig = {
       titleTemplate: "%s - Form Testnet Docs",
     };
   },
+  navigation: false,
 };
 
 export default config;
