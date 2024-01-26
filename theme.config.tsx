@@ -2,8 +2,6 @@ import React from "react";
 import { DocsThemeConfig } from "nextra-theme-docs";
 import roll from "../roll-docs/images/form.svg";
 
-console.log(roll);
-
 const config: DocsThemeConfig = {
   logo: <img src={roll.src} style={{ height: 40, width: 160 }} />,
   head: (
