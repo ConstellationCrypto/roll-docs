@@ -36,6 +36,7 @@ const config: DocsThemeConfig = {
         property="og:description"
         content="Get started on Form Testnet by adding to Metamask, receiving faucet funds, and deploying smart contracts."
       />
+      <link rel="icon" type="image/x-icon" href="/static/favicon.ico" />
     </>
   ),
   primaryHue: 242,
