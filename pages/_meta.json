@@ -8,7 +8,16 @@
   "faucet": "Receive Faucet Funds",
   "bridge": "Bridge to Form Testnet",
   "advanced": {
-    "title":"Deploy on Form Testnet"
+    "title": "Deploy on Form Testnet"
+  },
+  "indexers": {
+    "title": "Data Indexers"
+  },
+  "oracles": {
+    "title": "Oracles"
+  },
+  "account_abstraction": {
+    "title": "Account Abstraction"
   },
   "seperator_2": {
     "type": "separator",
@@ -33,13 +42,7 @@
   "website": {
     "title": "Website ↗",
     "type": "page",
-    "href": "https://tryroll.com/",
-    "newWindow": true
-  },
-  "twitter": {
-    "title": "Twitter ↗",
-    "type": "page",
-    "href": "https://x.com/tryrollhq",
+    "href": "https://form.network/",
     "newWindow": true
   }
 }
